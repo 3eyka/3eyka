@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&background=FFFFFF00&random=false&width=435&lines=%D0%B7%D0%B5%D1%87%D0%BA%D0%B0)](https://git.io/typing-svg)
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/1030253047739318274/1170207529544986664/denonbu-sakurano-mimito_2.gif" width="360px"/>
 
-<img align="right" alt="GIF" src="https://tenor.com/fr/view/denonbu-sakurano-mimito-party-jump-anime-girl-gif-24638300" width="360px"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1&color=F7A7F3&random=false&width=435&height=80&lines=Aika)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=20&pause=1&color=00F726&random=false&width=435&height=19&lines=%23%23%23student%400xA28%23%23%23)](https://git.io/typing-svg)
 
 ---
 
