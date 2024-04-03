@@ -1,9 +1,9 @@
 ---
-<img align="left" alt="PNG" src="https://github.com/3eyka/3eyka/assets/71324677/bb62d369-14e7-461b-a594-9d8ad9d41493" width="360px" margin="1000px"/>
+<img align="left" alt="PNG" src="https://github.com/3eyka/3eyka/assets/71324677/bb62d369-14e7-461b-a594-9d8ad9d41493" width="300px" margin="1000px"/>
 
 ---
 
- <img align="left" alt="PNG" src="https://media.tenor.com/t9P8GrlgPzEAAAAi/jemil.gif" height="100px" width="70px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=27&duration=50&pause=250&color=777BFF&random=false&width=435&lines=3+e+y+k+a)](https://git.io/typing-svg)
+ <img align="left" alt="PNG" src="https://media.tenor.com/t9P8GrlgPzEAAAAi/jemil.gif" height="80px" width="50px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=24&duration=50&pause=250&color=777BFF&random=false&width=435&lines=3+e+y+k+a)](https://git.io/typing-svg)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&duration=50&pause=10&color=00E4FF18&random=false&width=435&lines=ahahahaha;6;9;420;elation;nah+i'd+win;SIGSEGV;XD;jk;LMAO)](https://git.io/typing-svg)
 
 
