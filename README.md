@@ -1,5 +1,5 @@
 ---
-<img align="left" alt="PNG" src="https://github.com/3eyka/3eyka/assets/71324677/bb62d369-14e7-461b-a594-9d8ad9d41493" width="460px" margin="1000px"/>
+<img align="left" alt="PNG" src="https://github.com/3eyka/3eyka/assets/71324677/bb62d369-14e7-461b-a594-9d8ad9d41493" width="360px" margin="1000px"/>
 
 ---
 
